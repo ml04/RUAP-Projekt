@@ -3,6 +3,8 @@
 
 int main(){
 
-	printf("Pozdrav iz aplikacije Matija Lekiæ\n Broj indeksa: 225");
+
+	printf("Pozdrav iz aplikacije Matija Lekiæ");
+
 	return 0;
 }
